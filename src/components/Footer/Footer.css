@@ -1,0 +1,11 @@
+.f-container {
+  justify-content: space-between;
+}
+.f-right {
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+  font-weight: 600;
+}
+.f-list {
+  gap: 1rem;
+}
